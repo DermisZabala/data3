@@ -1,0 +1,496 @@
+{
+  "movies": [],
+  "series": [
+    {
+      "id": 66732,
+      "imdb_id": "tt4574334",
+      "title": "Stranger Things",
+      "overview": "A raíz de la desaparición de un niño, un pueblo desvela un misterio relacionado con experimentos secretos, fuerzas sobrenaturales aterradoras y una niña muy extraña.",
+      "poster_path": "/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+      "backdrop_path": "/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+      "release_date": "2016-07-15",
+      "rating": "8.6",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Misterio"
+      ],
+      "cast": [
+        "Millie Bobby Brown",
+        "Finn Wolfhard",
+        "Gaten Matarazzo",
+        "Caleb McLaughlin",
+        "Sadie Sink"
+      ],
+      "type": "Serie",
+      "seasons": [
+        {
+          "season_number": 3,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "title": "Suzie, ¿me recibes?",
+              "overview": "Con el verano llegan nuevos trabajos y un amor incipiente. Pero todo cambia cuando la radio de Dustin capta una emisión en ruso y Will presiente que algo va mal.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/c9sjbuogtxd2"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/ZH9jZNEdwSTV"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/6nhufbcv2dks"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/9l6LZrpabwTOV4"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/x14aki9lmqro"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Filemoon",
+                  "embed_url": "https://filemoon.sx/e/vjs2mt8ps01o"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/32uy9hnh1316"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/luqlh1786coi"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/1PkeGRJlx2uemMR"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/66732/3/1"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "title": "Ratas de centro comercial",
+              "overview": "Nancy y Jonathan van tras la noticia, Steve y Robin se apuntan a una misión secreta, Maxine y Once se van de compras, y Billy tiene visiones inquietantes.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/JLAlTPTZJ9ib"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/gfk22qbbr0i8"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/OdmQqzVl9zfZBVA"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/pk8xo01jy6kd"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/c5vgv5qwf6e2"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Filemoon",
+                  "embed_url": "https://filemoon.sx/e/it4bz5xz9fr0"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/h4dwhgdv5mzx"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/66732/3/2"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/350nwxcpsouk"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/o2ZbdB4JvDuJ1aO"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "title": "El caso de la socorrista desaparecida",
+              "overview": "Once y Maxine van en busca de Billy, Will declara un día sin chicas, Steve y Dustin emprenden una misión, y Joyce y Hopper vuelven al laboratorio de Hawkins.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/asc18ttzydfa"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/e5nmsyqc7uxr"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/QkIt1PY05HOW"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Filemoon",
+                  "embed_url": "https://filemoon.sx/e/7fybm1wsb6lv"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/l00GaqbBvYs7RrR"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/bb6zkoas5jf2"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/35rhttiyh3ez"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/lytyaivxsk6t"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/nkkmmbtz7tki"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/66732/3/3"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/ZKWYv9zw4dHqVbr"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "title": "La prueba de la sauna",
+              "overview": "Un código rojo reúne a la pandilla, que se enfrenta a un peligro familiar y aterrador. Karen anima a Nancy a que siga investigando y Robin descubre un mapa muy útil.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/j44SJBuEsIUM"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/vr9ygueqoee8"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/ojts3dt5v2kx"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/LaOaLM0JPaIy1K"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Filemoon",
+                  "embed_url": "https://filemoon.sx/e/tfxvlorjre03"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/ffex8n9kli3f"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/0hogattvcwjm"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/voPlrzYRPOu4yaK"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/66732/3/4"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/k3h2mr2td6xj"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "title": "El ejército del Azotamentes",
+              "overview": "Extrañas sorpresas acechan en una vieja casa y en las profundidades del centro comercial Starcourt. Y el Azotamentes cada vez es más fuerte.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/WROSut6bkXpp"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/8cekyqnd8zxw"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/6XP4mQRkydi9yXa"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/7vcf6eyqpb4a"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/t2l1dh619tn9"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/lovke6lefwis"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Filemoon",
+                  "embed_url": "https://filemoon.sx/e/qsfcdpdnx0q3"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/66732/3/5"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/resrqwx67tx2"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/a40VxMeVYmH2Zj"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/tn3kznglzzkz"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "title": "E pluribus unum",
+              "overview": "El doctor Alexei revela lo que construyen los rusos y Once descubre dónde ha estado Billy. Dustin y Erica montan una operación de rescate muy audaz.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/7jQkjww80gTAjv8"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/7u7jk6cfq8t2"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/mxk79wo9r8n7"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/dtn9zrsv6eps"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/sOZZgveExlyq"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/5eukueqnfh63"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Filemoon",
+                  "embed_url": "https://filemoon.sx/e/5z0cy5nvk7si"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/66732/3/6"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/oZL7mOX99YIJ6m6"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/14xdn6nfcu8p"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "title": "La mordedura",
+              "overview": "Con el tiempo a punto de agotarse y un asesino al acecho, el equipo de Hopper vuelve a toda prisa a Hawkins, donde Ce y la pandilla se preparan para la batalla.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/awp585qsmcys"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Filemoon",
+                  "embed_url": "https://filemoon.sx/e/ur63yl85cfyw"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/3iv81k3hef8s"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/vmqanraou5u8"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/4pk56gcd369k"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/YpH96BN2bCa4"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/XkqKpkwa9viD6Ql"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/ck5wnvf0p1vw"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/zGW9w0mmXzfYRBP"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/66732/3/7"
+                }
+              ]
+            },
+            {
+              "episode_number": 8,
+              "title": "La batalla de Starcourt",
+              "overview": "El terror se apodera de la zona de restaurantes cuando aparece el Azotamentes, pero, en el subsuelo, el futuro del mundo está en juego.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/kayji8nragf3"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/bU8cZ8pbuMFw"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Filemoon",
+                  "embed_url": "https://filemoon.sx/e/d37xr5bo3wvk"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/dkm530voeu9z"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/cv9hdj8eqnip"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/mqjbXXljyKHbqRw"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/r3k7mo9e33ls"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/KLQYp3YvO9HwDJ"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/66732/3/8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
